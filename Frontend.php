@@ -1,5 +1,5 @@
 /**
-Magento 2 Sarp2 Extension. Changing "One-off purchase" (No Subscription)" to "One-Time Purchase ("No subscription" on product page
+Magento 2 Sarp2 Extension. Changing "One-off purchase" (No Subscription)" to "One-Time Purchase (No subscription)" on product page
 */
 
 /public_html/vendor/aheadworks/module-sarp2/Model/Product/Subscription/Option/Source
