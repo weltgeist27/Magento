@@ -29,7 +29,7 @@ Magento 2 Sarp2 Extension. Changing "One-off purchase" (No Subscription)" to "On
     {
         $optionArray = [];
         if (!$this->isSubscriptionChecker->checkById($productId, true)) {
-        * Change ('One-off purchase (No subscription)') to ('One-Time Purchase (No subscription)');
+        /* Change ('One-off purchase (No subscription)') to ('One-Time Purchase (No subscription)');*/
             $optionArray[0] = __('One-Time Purchase (No subscription)');
         }
 
